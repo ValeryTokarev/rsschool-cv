@@ -33,3 +33,8 @@ function basicOp(operation, value1, value2)
   return(result);
 }
 ```
+## Languages:
+* Swedish
+* Russian
+* Belorussian
+* English (basic)
